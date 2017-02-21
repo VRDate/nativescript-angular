@@ -42,7 +42,7 @@
   "devDependencies": {
     "@angular/compiler-cli": "4.0.0-beta.8",
     "codelyzer": "~2.0.0",
-    "tns-core-modules": "2.5.0",
+    "tns-core-modules": "../tns-core-modules.tgz",
     "tslint": "~4.4.0",
     "typescript": "~2.1.0",
     "zone.js": "^0.7.2"
